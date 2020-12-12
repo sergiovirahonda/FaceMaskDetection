@@ -1,0 +1,38 @@
+<annotation verified="yes">
+	<folder>Augmented Dataset</folder>
+	<filename>1705.jpg</filename>
+	<path>/home/sergio/PythonProjects/Face Mask Detection/Augmented Dataset/1705.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>415</width>
+		<height>415</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Wearing face mask</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>103</xmin>
+			<ymin>83</ymin>
+			<xmax>133</xmax>
+			<ymax>128</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Wearing face mask</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>332</xmin>
+			<ymin>112</ymin>
+			<xmax>354</xmax>
+			<ymax>139</ymax>
+		</bndbox>
+	</object>
+</annotation>

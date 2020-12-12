@@ -1,0 +1,14 @@
+<annotation verified="yes">
+	<folder>Augmented Dataset</folder>
+	<filename>4498.jpg</filename>
+	<path>/home/sergio/PythonProjects/Face Mask Detection/Augmented Dataset/4498.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>415</width>
+		<height>415</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+</annotation>
